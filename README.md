@@ -11,6 +11,6 @@ Natural numbers are divisible only by 1 and its number
 ## Better of computation load
 N is Natural number
 
-$ O(N) $ is computation load N times
+$O(N)$ is computation load N times
 
-I think below $ O(\root(N)) $ 
+I think below $O(\root(N))$ 
